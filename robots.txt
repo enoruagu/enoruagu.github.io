@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enoruagu.github.io/KfD/sitemap_index.txt
+Sitemap: https://enoruagu.github.io/YxB/sitemap_index.txt
+Sitemap: https://enoruagu.github.io/pZX/sitemap_index.txt
+Sitemap: https://enoruagu.github.io/xFG/sitemap_index.txt
